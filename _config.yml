@@ -23,7 +23,7 @@ color:
     - '#C83800'
     - '#000000'
   brandStrength: 0.579391
-  lightness: 0.737331
+  lightness: 1
   saturation: 0.99831
-  rhythmicContrast: 0.878378
+  rhythmicContrast: 0.25
 purpose: []
