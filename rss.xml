@@ -4,14 +4,14 @@
         <description><![CDATA[Making Meaningless]]></description>
         <link>https://thegrid.ai/dougcrissman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 07:00:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 16:12:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dougcrissman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum posuere augue, vel scelerisque justo tempus at. Vivamus sed ultrices justo. Vivamus finibus sit amet arcu ac lobortis. Quisque imperdiet varius lectus sit amet finibus. Etiam sapien nibh, fermentum id turpis vel, aliquet porttitor lacus. Nunc vitae risus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel consectetur lacus.</p>]]></description>
+            <title><![CDATA[This is the Long Post Title]]></title>
+            <description><![CDATA[<article><h1>This is the Long Post Title</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum posuere augue, vel scelerisque justo tempus at. Vivamus sed ultrices justo. Vivamus finibus sit amet arcu ac lobortis. Quisque imperdiet varius lectus sit amet finibus. Etiam sapien nibh, fermentum id turpis vel, aliquet porttitor lacus. Nunc vitae risus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel consectetur lacus.</p></article>]]></description>
             <link>https://thegrid.ai/dougcrissman/f3f15f73-3ed5-40bd-893a-f0de4b9c85b3/index.html</link>
             <guid isPermaLink="false">f3f15f73-3ed5-40bd-893a-f0de4b9c85b3</guid>
-            <pubDate>Fri, 01 Apr 2016 07:00:38 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2016 16:12:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This is the Post Title]]></title>
