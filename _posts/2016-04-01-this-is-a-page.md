@@ -6,16 +6,16 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is the description of the page.
-datePublished: '2016-04-01T16:17:43.209Z'
-dateModified: '2016-04-01T16:17:42.333Z'
+datePublished: '2016-04-01T16:18:05.241Z'
+dateModified: '2016-04-01T16:17:59.133Z'
 title: This is a Page
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
 sourcePath: _posts/2016-04-01-this-is-a-page.md
 published: true
 url: this-is-a-page/index.html
