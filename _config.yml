@@ -1,20 +1,4 @@
-name: dougcrissman
-favicon: null
-layout_spectrum: 0.58218
-typography_spectrum: 0.44733
-title: Making Meaningless
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#79afbf'
@@ -22,8 +6,13 @@ color:
     - '#b2dbea'
     - '#1b3841'
     - '#62757f'
-  brandStrength: 1
+  brandStrength: 0.440878
   lightness: 1
-  saturation: 0
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
+  saturation: 0.511824
+cta: {}
+layout_spectrum: 0.58218
+name: dougcrissman
+opengraph: {}
 purpose: []
+typography_spectrum: 0.44733
