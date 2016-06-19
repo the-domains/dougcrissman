@@ -1,17 +1,17 @@
 analytics: {}
 color:
   brandColors:
-    - '#79afbf'
-    - '#fcfdff'
-    - '#b2dbea'
-    - '#1b3841'
-    - '#62757f'
+    - '#FFFFFF'
+    - '#0B090A'
+    - '#28272D'
+    - '#838383'
+    - '#3F484F'
   brandStrength: 0.440878
   lightness: 1
   rhythmicContrast: 1
   saturation: 0.511824
 cta: {}
-layout_spectrum: 0.58218
+layout_spectrum: 0.660473
 name: dougcrissman
 opengraph: {}
 purpose: []
